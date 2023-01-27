@@ -1,0 +1,22 @@
+{
+  "name": "toggle-on-hover",
+  "version": "1.0.0",
+  "description": "Create a hover, but with JS using mouseover and mouse out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulvillajr95/toggle-on-hover.git"
+  },
+  "keywords": [
+    "RVJR"
+  ],
+  "author": "Raul Villalobos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulvillajr95/toggle-on-hover/issues"
+  },
+  "homepage": "https://github.com/raulvillajr95/toggle-on-hover#readme"
+}
